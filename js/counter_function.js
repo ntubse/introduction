@@ -42,3 +42,4 @@ if (!self._FC2COUNTER89450248_0)
 	}
 }
 _FC2COUNTER89450248_0.disp_js();
+//for test
