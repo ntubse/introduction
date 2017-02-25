@@ -34,7 +34,7 @@ if (!self._FC2COUNTER89450248_0)
 		disp_js:function()
 		{
 			document.write('<script type="text/javascript" language="javascript"'
-				+ ' src="counter.js'
+				+ ' src="counter.js"'
 				+ '&amp;visitor=' + this.visit_info()
 				+ '" charset="UTF-8"></'+'script>'
 			);
