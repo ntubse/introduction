@@ -34,7 +34,7 @@ if (!self._FC2COUNTER89450248_0)
 		disp_js:function()
 		{
 			document.write('<script type="text/javascript" language="javascript"'
-				+ ' src="https://counter1.fc2.com/counter_js.php?id=89450248&main=0&lang=0'
+				+ ' src="counter.js'
 				+ '&amp;visitor=' + this.visit_info()
 				+ '" charset="UTF-8"></'+'script>'
 			);
